@@ -1,0 +1,57 @@
+html {
+  background-color: 292a17;
+}
+
+
+/* styling for subscribe button */
+.subscribe-button {
+  background-color: rgb(224, 33, 12);
+  color: white;
+  height: 36px;
+  width: 105px;
+  cursor: pointer;
+  border-radius: 6px;
+  border-style: none;
+  font-weight: bold;
+  margin-top: 10px;
+  display: block;
+  margin: auto;
+  margin-top: 15px;
+}
+
+.subscribe-button:hover {
+  opacity: 0.7;
+  box-shadow: 10px, 10px, 10px rgba(0,0,0,0.15);
+}
+
+.subscribe-button:active {
+  opacity: 0.5;
+}
+/* styling for subscribe button */
+
+
+/* Styling for format */
+.login {
+  margin-left: 1200px;
+}
+
+.aboutme {
+  margin-left: 1200px;
+}
+
+.contactus {
+  margin-left: 1200px;
+}
+
+.topdownpic {
+  display: block;
+  margin: auto;
+  border-radius: 15px;
+}
+
+body {
+  background-color: #292a17;
+  color: #F8FCA7;
+}
+           
+/* Styling for format */
